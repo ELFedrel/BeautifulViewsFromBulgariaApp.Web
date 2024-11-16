@@ -1574,7 +1574,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "BeautifulViewsFromBulgariaApp.Common": "1.0.0"
+          "BeautifulViewsFromBulgariaApp.Common": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0"
         },
         "compile": {
           "bin/placeholder/BeautifulViewsFromBulgariaApp.Data.Models.dll": {}

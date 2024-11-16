@@ -937,7 +937,8 @@
       },
       "BeautifulViewsFromBulgariaApp.Data.Models/1.0.0": {
         "dependencies": {
-          "BeautifulViewsFromBulgariaApp.Common": "1.0.0"
+          "BeautifulViewsFromBulgariaApp.Common": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0"
         },
         "runtime": {
           "BeautifulViewsFromBulgariaApp.Data.Models.dll": {}

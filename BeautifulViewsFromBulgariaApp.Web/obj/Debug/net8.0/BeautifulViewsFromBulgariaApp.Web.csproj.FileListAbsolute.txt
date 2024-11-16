@@ -146,3 +146,4 @@ C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBu
 C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Web\bin\Debug\net8.0\BeautifulViewsFromBulgariaApp.Common.pdb
 C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Web\bin\Debug\net8.0\BeautifulViewsFromBulgariaApp.Data.Models.pdb
 C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Web\bin\Debug\net8.0\BeautifulViewsFromBulgariaApp.Data.pdb
+C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Web\obj\Debug\net8.0\BeautifulViewsFromBulgariaApp.Web.sourcelink.json

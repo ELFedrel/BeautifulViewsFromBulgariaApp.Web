@@ -17,3 +17,4 @@ C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBu
 C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Data\obj\Debug\net8.0\BeautifulViewsFromBulgariaApp.Data.pdb
 C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Data\obj\Debug\net8.0\BeautifulViewsFromBulgariaApp.Data.genruntimeconfig.cache
 C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Data\obj\Debug\net8.0\ref\BeautifulViewsFromBulgariaApp.Data.dll
+C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Data\obj\Debug\net8.0\BeautifulViewsFromBulgariaApp.Data.sourcelink.json
