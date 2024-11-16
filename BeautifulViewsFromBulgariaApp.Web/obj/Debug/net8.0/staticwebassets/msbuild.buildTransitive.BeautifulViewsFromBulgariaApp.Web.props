@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BeautifulViewsFromBulgariaApp.Web.props" />
+</Project>

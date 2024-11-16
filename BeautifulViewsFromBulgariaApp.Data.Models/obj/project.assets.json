@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BeautifulViewsFromBulgariaApp.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BeautifulViewsFromBulgariaApp.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BeautifulViewsFromBulgariaApp.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BeautifulViewsFromBulgariaApp.Common/1.0.0": {
+      "type": "project",
+      "path": "../BeautifulViewsFromBulgariaApp.Common/BeautifulViewsFromBulgariaApp.Common.csproj",
+      "msbuildProject": "../BeautifulViewsFromBulgariaApp.Common/BeautifulViewsFromBulgariaApp.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BeautifulViewsFromBulgariaApp.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ivo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ivo\\source\\repos\\BeautifulViewsFromBulgariaApp.Web\\BeautifulViewsFromBulgariaApp.Data.Models\\BeautifulViewsFromBulgariaApp.Data.Models.csproj",
+      "projectName": "BeautifulViewsFromBulgariaApp.Data.Models",
+      "projectPath": "C:\\Users\\Ivo\\source\\repos\\BeautifulViewsFromBulgariaApp.Web\\BeautifulViewsFromBulgariaApp.Data.Models\\BeautifulViewsFromBulgariaApp.Data.Models.csproj",
+      "packagesPath": "C:\\Users\\Ivo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ivo\\source\\repos\\BeautifulViewsFromBulgariaApp.Web\\BeautifulViewsFromBulgariaApp.Data.Models\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ivo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Ivo\\source\\repos\\BeautifulViewsFromBulgariaApp.Web\\BeautifulViewsFromBulgariaApp.Common\\BeautifulViewsFromBulgariaApp.Common.csproj": {
+              "projectPath": "C:\\Users\\Ivo\\source\\repos\\BeautifulViewsFromBulgariaApp.Web\\BeautifulViewsFromBulgariaApp.Common\\BeautifulViewsFromBulgariaApp.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

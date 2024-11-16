@@ -1,0 +1,11 @@
+C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Common\bin\Debug\net8.0\BeautifulViewsFromBulgariaApp.Common.deps.json
+C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Common\bin\Debug\net8.0\BeautifulViewsFromBulgariaApp.Common.dll
+C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Common\bin\Debug\net8.0\BeautifulViewsFromBulgariaApp.Common.pdb
+C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Common\obj\Debug\net8.0\BeautifulViewsFromBulgariaApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Common\obj\Debug\net8.0\BeautifulViewsFromBulgariaApp.Common.AssemblyInfoInputs.cache
+C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Common\obj\Debug\net8.0\BeautifulViewsFromBulgariaApp.Common.AssemblyInfo.cs
+C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Common\obj\Debug\net8.0\BeautifulViewsFromBulgariaApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Common\obj\Debug\net8.0\BeautifulViewsFromBulgariaApp.Common.dll
+C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Common\obj\Debug\net8.0\refint\BeautifulViewsFromBulgariaApp.Common.dll
+C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Common\obj\Debug\net8.0\BeautifulViewsFromBulgariaApp.Common.pdb
+C:\Users\Ivo\source\repos\BeautifulViewsFromBulgariaApp.Web\BeautifulViewsFromBulgariaApp.Common\obj\Debug\net8.0\ref\BeautifulViewsFromBulgariaApp.Common.dll
